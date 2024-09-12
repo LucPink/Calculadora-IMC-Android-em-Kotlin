@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="imc_format">IMC: %.2f</string>
+    <string name="entrada_invalida">Entrada inválida</string>
+</resources>
